@@ -5,5 +5,6 @@ Search algorithms
 ## Setup
 
 ```sh
-pip3 install -r python/requirements.txt
+cd python/
+pip3 install -r requirements.txt # use `pip` if pip3 isn't available
 ```
