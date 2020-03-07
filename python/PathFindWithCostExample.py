@@ -6,6 +6,8 @@ Adaptado de:
 from SearchAlgorithms.greedy_search import greedy_search
 import networkx as nx
 
+import matplotlib
+matplotlib.use('TkAgg')
 
 try:
     import matplotlib.pyplot as plt
